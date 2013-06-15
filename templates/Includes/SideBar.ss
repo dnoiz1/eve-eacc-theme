@@ -1,4 +1,5 @@
-<div class="span4 aside" role="complementary">
+
+<div class="span3">
 <% if $Menu(2) %>
   	<% include SidebarMenu %>
 <% end_if %>
