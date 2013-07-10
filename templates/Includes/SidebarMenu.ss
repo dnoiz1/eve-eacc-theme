@@ -1,4 +1,4 @@
-<div class="subnav well">
+<div class="well sidebar-nav">
 	<ul class="nav nav-list">
 	    <li class="nav-header">
 	    <% loop $Level(1) %>

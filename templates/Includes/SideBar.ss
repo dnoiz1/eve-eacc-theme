@@ -1,6 +1,6 @@
 
-<div class="span3">
 <% if $Menu(2) %>
-  	<% include SidebarMenu %>
+    <div class="span3">
+      	<% include SidebarMenu %>
+    </div>
 <% end_if %>
-</div>
