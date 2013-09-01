@@ -3,7 +3,7 @@
 }
 
 .brand {
-    background: url(../images/dinner_icon.png) 0 3px no-repeat;
+    background: url(/themes/bootstrap/images/dinner_icon.png) 0 3px no-repeat;
     padding-left: 37px !important;
 }
 
@@ -15,7 +15,7 @@
 }
 
 #header-avatar {
-    padding: 4px 15px 0;
+    padding: 4px 15px 4px;
 }
 #header-avatar img {
     border-radius: 4px;
